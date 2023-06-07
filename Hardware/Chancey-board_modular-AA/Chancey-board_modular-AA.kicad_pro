@@ -456,48 +456,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "Three_Volt",
-        "pattern": "+3.3V"
-      },
-      {
-        "netclass": "Five_Volt",
-        "pattern": "+5V"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "GND"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "MX-PD1"
-      },
-      {
-        "netclass": "Three_Volt",
-        "pattern": "+3.3V_QWIIC"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "MX-PD2"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "MX-PD3"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "MX-PD4"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "MX-PD5"
-      },
-      {
-        "netclass": "Ground",
-        "pattern": "MX-PD6"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {

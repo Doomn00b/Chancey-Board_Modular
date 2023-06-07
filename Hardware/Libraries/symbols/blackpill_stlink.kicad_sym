@@ -6,7 +6,7 @@
     (property "Value" "BlackPill_STLINK" (at 7.62 -35.56 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "blackpill:BlackPill_STLINK" (at 43.18 -1.27 0)
+    (property "Footprint" "Chancey_modular:BlackPill_STLINK" (at 43.18 -1.27 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 43.18 -1.27 0)

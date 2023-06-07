@@ -1,6 +1,6 @@
 (sym_lib_table
   (version 7)
   (lib (name "49e")(type "KiCad")(uri "C:/Users/lars.johansson/OneDrive - Grepit AB/Documents/Personal/Hall-effect keyboard/Chancey-board_mod/Hardware/Libraries/symbols/49e.kicad_sym")(options "")(descr ""))
-  (lib (name "blackpill_stlink")(type "KiCad")(uri "C:/Users/lars.johansson/OneDrive - Grepit AB/Documents/Personal/Hall-effect keyboard/Chancey-board_mod/Hardware/Libraries/symbols/blackpill_stlink.kicad_sym")(options "")(descr ""))
   (lib (name "voidswitch")(type "KiCad")(uri "C:/Users/lars.johansson/OneDrive - Grepit AB/Documents/Personal/Hall-effect keyboard/Chancey-board_mod/Hardware/Libraries/symbols/voidswitch.kicad_sym")(options "")(descr ""))
+  (lib (name "blackpill_stlink")(type "KiCad")(uri "C:/Users/lars.johansson/OneDrive - Grepit AB/Documents/Personal/Hall-effect keyboard/Chancey-Board_Modular/Hardware/Libraries/symbols/blackpill_stlink.kicad_sym")(options "")(descr ""))
 )
