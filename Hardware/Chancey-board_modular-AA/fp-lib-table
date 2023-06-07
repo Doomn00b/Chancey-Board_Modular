@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Chancey_modular")(type "KiCad")(uri "C:/Users/lars.johansson/OneDrive - Grepit AB/Documents/Personal/Hall-effect keyboard/Chancey-board_mod/Hardware/Libraries/Chancey_modular.pretty")(options "")(descr ""))
+)
